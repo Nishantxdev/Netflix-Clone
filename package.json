@@ -1,0 +1,27 @@
+{
+  "name": "netflix-clone",
+  "version": "1.0.0",
+  "description": "A simple Netflix Clone website created to practice web development. It features a Netflix-inspired design with movies, TV shows, banners, and a responsive user interface.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nishantxdev/Netflix-Clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Nishantxdev/Netflix-Clone/issues"
+  },
+  "homepage": "https://github.com/Nishantxdev/Netflix-Clone#readme",
+  "devDependencies": {
+    "vite": "^8.3.2"
+  }
+}
