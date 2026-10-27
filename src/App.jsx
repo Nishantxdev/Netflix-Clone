@@ -120,8 +120,7 @@ function App() {
               <option value="">Українська</option>
               <option value="">Filipino</option>
             </select>
-            <button onClick={()=>window.location.href = "https://www.netflix.com/in/login?serverState=Bgi8vuvcAxK1AQj5pgpCwfRCP1yw9MeCt2QicYRZP4oUwp4lrhCXmDJlsXaum9AFLWYCn26%2B%2BQVPa2apDviRCyNh6Ian%2Bimqw8RbzETEmpq3DRK7TkEe6ecDFueIeyOYqKMYLWbaS2TbeS%2FIV5ldzCvTwtfQPSfqN7EDojo7XH6Da2rFxj8Z%2BOFWux2tZWE7V8rm9xMAriDFNOBsjQ6QrTtLZYAkwS3wD0kyqIasC8Ql9%2FIf3ldIw2sV0eBZs6kYBiIOCgxoTX8yqMxatTGFAgg%3D"
-} className="sign-btn">Sign In</button>
+            <button className="sign-btn">Sign In</button>
           </div>
         </nav>
 
